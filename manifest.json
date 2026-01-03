@@ -1,4 +1,173 @@
 {
   "version": 1,
-  "files": []
+  "files": [
+    {
+      "id": "oncologia",
+      "title": "Oncologia",
+      "tags": ["oncologia", "cancer"],
+      "filename": "Oncologia.pdf"
+    },
+    {
+      "id": "cirurgia_plastica",
+      "title": "Cirurgia Plástica",
+      "tags": ["cirurgia plastica"],
+      "filename": "de Cirurgia Plástica.pdf"
+    },
+    {
+      "id": "ginecologia_mastologia",
+      "title": "Ginecologia e Mastologia",
+      "tags": ["ginecologia", "mastologia"],
+      "filename": "de Ginecologia e Mastologia.pdf"
+    },
+    {
+      "id": "reumatologia",
+      "title": "Reumatologia",
+      "tags": ["reumatologia"],
+      "filename": "Reumatologia.pdf"
+    },
+    {
+      "id": "odontologia",
+      "title": "Odontologia",
+      "tags": ["odontologia", "saude bucal"],
+      "filename": "de Odontologia.pdf"
+    },
+    {
+      "id": "prenatal_alto_risco",
+      "title": "Pré-Natal de Alto Risco",
+      "tags": ["prenatal", "alto risco", "gestante"],
+      "filename": "Pré-Natal de Alto Risco.pdf"
+    },
+    {
+      "id": "endocrinologia",
+      "title": "Endocrinologia",
+      "tags": ["endocrinologia", "hormonios"],
+      "filename": "Endocrinologia.pdf"
+    },
+    {
+      "id": "nefrologia",
+      "title": "Nefrologia",
+      "tags": ["nefrologia", "rim"],
+      "filename": "Nefrologia.pdf"
+    },
+    {
+      "id": "oftalmologia",
+      "title": "Oftalmologia",
+      "tags": ["oftalmologia", "visao"],
+      "filename": "Oftalmologia.pdf"
+    },
+    {
+      "id": "ressonancia_magnetica",
+      "title": "Ressonância Nuclear Magnética (RNM)",
+      "tags": ["ressonancia", "rnm", "imagem"],
+      "filename": "de Ressonância Nuclear Magnética (RNM).pdf"
+    },
+    {
+      "id": "alergologia_imunologia",
+      "title": "Alergologia e Imunologia",
+      "tags": ["alergologia", "imunologia"],
+      "filename": "de Alergologia e Imunologia.pdf"
+    },
+    {
+      "id": "neurologia",
+      "title": "Neurologia",
+      "tags": ["neurologia", "sistema nervoso"],
+      "filename": "de Neurologia.pdf"
+    },
+    {
+      "id": "angiologia",
+      "title": "Angiologia",
+      "tags": ["angiologia", "vasos"],
+      "filename": "de Angiologia.pdf"
+    },
+    {
+      "id": "padi",
+      "title": "Programa de Atenção Domiciliar ao Idoso (PADI)",
+      "tags": ["padi", "idoso", "atencao domiciliar"],
+      "filename": "Programa de Atenção Domiciliar ao idoso (PADI).pdf"
+    },
+    {
+      "id": "otorrinolaringologia",
+      "title": "Otorrinolaringologia",
+      "tags": ["otorrino", "ouvido", "nariz", "garganta"],
+      "filename": "Otorrinolaringologia.pdf"
+    },
+    {
+      "id": "cardiologia",
+      "title": "Cardiologia",
+      "tags": ["cardiologia", "coracao"],
+      "filename": "Cardiologia.pdf"
+    },
+    {
+      "id": "cirurgia_geral",
+      "title": "Cirurgia Geral",
+      "tags": ["cirurgia geral"],
+      "filename": "Cirurgia Geral.pdf"
+    },
+    {
+      "id": "cabeca_pescoco",
+      "title": "Cirurgia em Cabeça e Pescoço",
+      "tags": ["cabeca e pescoco", "cirurgia"],
+      "filename": "Cirurgia em Cabeça e Pescoço.pdf"
+    },
+    {
+      "id": "cirurgia_vascular",
+      "title": "Cirurgia Vascular",
+      "tags": ["cirurgia vascular", "vasos"],
+      "filename": "Cirurgia Vascular.pdf"
+    },
+    {
+      "id": "cirurgia_pediatrica",
+      "title": "Cirurgia Pediátrica",
+      "tags": ["cirurgia pediatrica", "crianca"],
+      "filename": "de Cirurgia Pediátrica.pdf"
+    },
+    {
+      "id": "eletroneuromiografia",
+      "title": "Eletroneuromiografia",
+      "tags": ["eletroneuromiografia", "enmg"],
+      "filename": "de Eletroneuromiografia.pdf"
+    },
+    {
+      "id": "endoscopia_colonoscopia",
+      "title": "Endoscopia e Colonoscopia",
+      "tags": ["endoscopia", "colonoscopia"],
+      "filename": "Endoscopia e Colonoscopia.pdf"
+    },
+    {
+      "id": "exames_cardiologia",
+      "title": "Exames em Cardiologia",
+      "tags": ["exames cardiologia"],
+      "filename": "de Exames em Cardiologia.pdf"
+    },
+    {
+      "id": "ortopedia",
+      "title": "Ortopedia",
+      "tags": ["ortopedia"],
+      "filename": "Ortopedia.pdf"
+    },
+    {
+      "id": "reabilitacao",
+      "title": "Reabilitação",
+      "tags": ["reabilitacao"],
+      "filename": "Reabilitação.pdf"
+    },
+    {
+      "id": "psiquiatria",
+      "title": "Psiquiatria e Saúde Mental Adulto",
+      "tags": ["psiquiatria", "saude mental"],
+      "filename": "Psiquiatria e Saúde Mental Adulto.pdf"
+    },
+    {
+      "id": "urologia",
+      "title": "Urologia",
+      "tags": ["urologia"],
+      "filename": "Urologia.pdf"
+    },
+    {
+      "id": "acupuntura_homeopatia",
+      "title": "Acupuntura e Homeopatia",
+      "tags": ["acupuntura", "homeopatia"],
+      "filename": "de Acupuntura e Homeopatia.pdf"
+    }
+  ]
 }
